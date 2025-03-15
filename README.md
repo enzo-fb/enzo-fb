@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm Enzo Fernandes 👋</h1>
 <h3 align="center">Software Engineering student | Passionate about technology! 👨‍💻</h3>
 
+
 🎓 Software engineering student at **UnB**  
 💡 Passionate about coding, problem-solving, and technology  
 🚀 Always eager to learn and take on new challenges  
-
+  
 ---
 
 ### 🔗 Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/enzo-fb" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -40,9 +41,8 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzo-fb&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p aligh="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enzo-fb&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-fb&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-fb&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+
+
