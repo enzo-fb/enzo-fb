@@ -62,11 +62,11 @@
 
 
 <h2>📊 GitHub Stats:</h2> 
-<div align="center" > 
-<a  href="https://github.com/enzo-fb">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enzo-fb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enzo-fb&layout=compact&langs_count=8&theme=algolia"/>
-</div>
+<p align="center" > 
+<a href="https://github.com/enzo-fb">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enzo-fb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enzo-fb&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 <br>
 
 ![Snake animation](https://github.com/enzo-fb/enzo-fb/blob/output/github-contribution-grid-snake.svg)
