@@ -60,9 +60,11 @@
 ---
 
 ### 📊 GitHub Stats:
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=enzo-fb&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-fb&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  </p>
+<div align="center" > 
+<a  href="https://github.com/enzo-fb">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-fb&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=enzo-fb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
+![Snake animation](https://github.com/enzo-fb/enzo-fb/blob/output/github-contribution-grid-snake.svg)
