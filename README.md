@@ -1,25 +1,24 @@
-<h1 align="center">Hi, I'm Enzo Fernandes 👋</h1>
-<h3 align="center">Software Engineering student | Passionate about technology! 👨‍💻</h3>
+<h1 align="center">Hi, I'm Enzo Fernandes 👋🏾​</h1>
 
+<br>
 
-🎓 Software engineering student at **UnB**  
-💡 Passionate about coding, problem-solving, and technology  
-🚀 Always eager to learn and take on new challenges  
-  
----
+<table align = 'center'>
+  <tr>
+    <td>
+      🎓 Software engineering student at <strong>UnB</strong> <br>
+      💡 Passionate about coding, problem-solving and technology  <br>
+      🚀 Always eager to learn and take on new challenges <br>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" alt="Bahroo Hacker Panda" width="150" />
+    </td>
+  </tr>
+</table>
 
-### 🔗 Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/enzo-fb" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+<br>
 
----
-
-
-### 🛠️ Languages and Tools:
-<p align="center">
+<h2>🛠️ Languages and Tools:</h2>
+<p align='center'>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 10px;"/>
   </a>  
@@ -53,18 +52,23 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" style="margin: 10px;"/>
 </a>
-
+</p>
+<h2>
+🔗 Connect with me:
+</h2>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/enzo-fb" target="_blank" ><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </p>
 
 
----
-
-### 📊 GitHub Stats:
+<h2>📊 GitHub Stats:</h2> 
 <div align="center" > 
 <a  href="https://github.com/enzo-fb">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-fb&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=enzo-fb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-fb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+<br>
 
 ![Snake animation](https://github.com/enzo-fb/enzo-fb/blob/output/github-contribution-grid-snake.svg)
+
+---
