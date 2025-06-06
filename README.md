@@ -52,6 +52,10 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" style="margin: 10px;"/>
 </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" style="margin: 10px;"/>
+</a>
+
 </p>
 <h2>
 🔗 Connect with me:
