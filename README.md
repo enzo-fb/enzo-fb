@@ -34,10 +34,12 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 10px;"/>
   </a>  
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+     <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="50" height="50" style="margin: 10px;"/>
 </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+</p>
+<p align='center'>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="margin: 10px;"/>
 </a>
 <a href="https://swift.org/" target="_blank" rel="noreferrer">
@@ -55,7 +57,7 @@
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" style="margin: 10px;"/>
 </a>
-
+  
 </p>
 <h2>
 🔗 Connect with me:
