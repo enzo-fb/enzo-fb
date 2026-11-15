@@ -1,83 +1,99 @@
-<h1 align="center">Hi, I'm Enzo Fernandes 👋🏾​</h1>
+# Enzo Fernandes Borges
 
-<br>
+**Backend · APIs · Automation · AI-assisted development**
 
-<table align = 'center'>
-  <tr>
-    <td>
-      🎓 Software engineering student at <strong>UnB</strong> <br>
-      💡 Passionate about coding, problem-solving and technology  <br>
-      🚀 Always eager to learn and take on new challenges <br>
-    </td>
-    <td>
-      <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" alt="Bahroo Hacker Panda" width="150" />
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<br>
+[LinkedIn](https://www.linkedin.com/in/enzo-fb/) · [Projects & contributions](#selected-work)
 
-<h2>🛠️ Languages and Tools:</h2>
-<p align='center'>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 10px;"/>
-  </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;"/>
-  </a>  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 10px;"/>
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 10px;"/>
-  </a>  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 10px;"/>
-  </a>  
-     <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="50" height="50" style="margin: 10px;"/>
-</a>
-</p>
-<p align='center'>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="margin: 10px;"/>
-</a>
-<a href="https://swift.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="50" height="50" style="margin: 10px;"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px;"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px;"/>
-</a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" style="margin: 10px;"/>
-</a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" style="margin: 10px;"/>
-</a>
-  
-</p>
-<h2>
-🔗 Connect with me:
-</h2>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/enzo-fb" target="_blank" ><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</p>
+<details>
+<summary><strong>Português — clique para expandir</strong></summary>
 
+## Olá, sou o Enzo
 
-<h2>📊 GitHub Stats:</h2> 
-<p align="center" > 
-<a href="https://github.com/enzo-fb">
-  <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enzo-fb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enzo-fb&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-<br>
+Estudo Engenharia de Software na Universidade de Brasília (UnB) e trabalho com desenvolvimento back-end, APIs e automação.
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzo-fb/enzo-fb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzo-fb/enzo-fb/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzo-fb/enzo-fb/output/github-contribution-grid-snake.svg">
-</picture>
+### No que trabalho
 
+Contribuo para a evolução de um **ERP para operações de milhas aéreas**, com TypeScript, Next.js, Supabase e PostgreSQL. Participo de melhorias de funcionalidades, integrações por APIs, investigação de falhas e validação de alterações.
+
+Utilizo **Claude Code** como apoio ao desenvolvimento e ao aprendizado, com atenção à compreensão do código, à revisão das sugestões e aos testes.
+
+### Projetos e contribuições
+
+Estes são trabalhos em equipe. Os links mostram minha participação em cada projeto.
+
+**i-Educar · Código aberto**  
+Validação de nomes e testes automatizados incorporados pelos mantenedores.  
+[Validação e testes ↗](https://github.com/portabilis/i-educar/pull/1102) · [Testes de matrícula ↗](https://github.com/portabilis/i-educar/pull/1081)
+
+**Ordenação de CSV · Python e Flask**  
+Melhorias na API, processamento de CSV e validação de entradas.  
+[Projeto ↗](https://github.com/eda2-2026/G3_Ordenacao_EDA2-2026.1) · [Minha contribuição ↗](https://github.com/eda2-2026/G3_Ordenacao_EDA2-2026.1/pull/17)
+
+**Eletta · Aplicativo de votação**  
+Testes de comunicação entre cliente e servidor e documentação.  
+[Testes ↗](https://github.com/unb-mds/2025-1-Eletta/pull/109) · [Documentação ↗](https://github.com/unb-mds/2025-1-Eletta/pull/119)
+
+### Tecnologias na prática
+
+| Contexto | Tecnologias |
+| --- | --- |
+| ERP | TypeScript, Next.js, Supabase, PostgreSQL |
+| Projetos em Python | Python, Flask, FastAPI, SQLite |
+| Testes e colaboração | pytest, mocks, Git, pull requests |
+| Fundamentos acadêmicos | Java, C, orientação a objetos, estruturas de dados |
+
+Tenho interesse em **oportunidades de desenvolvimento back-end júnior** e também estudo inglês para ampliar minha comunicação técnica e profissional.
+
+[Vamos conversar pelo LinkedIn ↗](https://www.linkedin.com/in/enzo-fb/)
+
+</details>
+
+## Hi, I’m Enzo
+
+I study Software Engineering at the University of Brasília (UnB), Brazil, and work on backend development, APIs, and automation.
+
+### What I’m working on
+
+I contribute to an **ERP system for airline miles operations**, built with TypeScript, Next.js, Supabase, and PostgreSQL. My work includes feature improvements, API integrations, bug investigation, and validating changes.
+
+I use **Claude Code** to support development and learning, with attention to understanding the code, reviewing suggestions, and testing solutions.
+
+## Selected work
+
+These are collaborative projects. The links show my contributions to each one.
+
+### i-Educar · Open source
+
+Name validation improvements and automated tests, merged by the project’s maintainers.
+
+[Validation & tests ↗](https://github.com/portabilis/i-educar/pull/1102) · [Enrollment tests ↗](https://github.com/portabilis/i-educar/pull/1081)
+
+### CSV Sorting · Python & Flask
+
+API improvements, CSV processing, and input validation.
+
+[Project ↗](https://github.com/eda2-2026/G3_Ordenacao_EDA2-2026.1) · [My contribution ↗](https://github.com/eda2-2026/G3_Ordenacao_EDA2-2026.1/pull/17)
+
+### Eletta · Voting application
+
+Client-server communication tests and project documentation.
+
+[Tests ↗](https://github.com/unb-mds/2025-1-Eletta/pull/109) · [Documentation ↗](https://github.com/unb-mds/2025-1-Eletta/pull/119)
+
+## Technologies in practice
+
+| Context | Technologies |
+| --- | --- |
+| ERP development | TypeScript, Next.js, Supabase, PostgreSQL |
+| Python projects | Python, Flask, FastAPI, SQLite |
+| Testing & collaboration | pytest, mocks, Git, pull requests |
+| Academic foundations | Java, C, object-oriented programming, data structures |
+
+I’m interested in **junior backend development opportunities**. I’m also studying English to improve my technical and professional communication.
+
+[Let’s connect on LinkedIn ↗](https://www.linkedin.com/in/enzo-fb/)
